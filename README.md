@@ -1,3 +1,3 @@
-# SoundCap(Usable)
+# ChatFilterF
 
-ver: 1.0.1
+ver: 1.0
