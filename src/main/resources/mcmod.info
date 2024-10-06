@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "chatfilterf",
+    "name": "ChatFilterF",
+    "description": "im test",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "FlyModeZ"
+    ]
+  }
+]
